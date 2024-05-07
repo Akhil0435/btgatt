@@ -1,0 +1,11 @@
+plugins/plugins_external_dummy_la-external-dummy.lo: \
+ plugins/external-dummy.c /usr/include/stdc-predef.h config.h \
+ src/plugin.h src/log.h
+
+/usr/include/stdc-predef.h:
+
+config.h:
+
+src/plugin.h:
+
+src/log.h:
