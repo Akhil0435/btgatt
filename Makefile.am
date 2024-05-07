@@ -1,4 +1,4 @@
-
+CFLAGS="-Wno-error"
 AM_MAKEFLAGS = --no-print-directory
 
 lib_LTLIBRARIES =
